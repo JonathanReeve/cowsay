@@ -1,5 +1,7 @@
 # cowsay
 
+Look at this beautiful cow saying stuff!
+
 ````
  __________________
 < srsly dude, why? >
